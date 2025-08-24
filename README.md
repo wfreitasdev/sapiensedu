@@ -1,5 +1,5 @@
 # SapiensEdu
-🇬🇧[Read in English](#-english) | 🇧🇷[Leia em Português](#-portugues)
+🇬🇧[Read in English](#-english) | 🇧🇷[Leia em Português](#-portugu%C3%AAs)
 
 d
 d
