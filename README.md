@@ -1,16 +1,16 @@
 # SapiensEdu
 🇬🇧[Read in English](#-english) | 🇧🇷[Leia em Português](#-português)
 
+d
 
 
+f
 
-
-
-
-
-
-
-
+d
+v
+v
+v
+d
 
 
 
