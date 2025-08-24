@@ -1,6 +1,24 @@
 # SapiensEdu
 🇬🇧[Read in English](#-english) | 🇧🇷[Leia em Português](#-português)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🇧🇷 Português
 
 ### SapiensEdu
