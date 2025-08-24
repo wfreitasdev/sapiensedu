@@ -31,7 +31,7 @@ Uma demonstração visual (screenshot, GIF ou um pequeno vídeo) pode ser muito 
 
 ## 📝 Sobre o Projeto
 
-Aqui você pode detalhar mais sobre o projeto. Fale sobre a sua motivação, o problema que ele resolve e o que você aprendeu durante o desenvolvimento. [5] Se for um projeto complexo, pode ser útil incluir um diagrama da arquitetura. [14]
+SapiensEdu é uma plataforma de gestão educacional completa e inteligente, projetada para unificar o ecossistema escolar. Nosso objetivo é simplificar a administração, fortalecer a comunicação e potencializar o desenvolvimento acadêmico, conectando escolas, professores, alunos e pais em um ambiente digital integrado e intuitivo.Através de ferramentas poderosas, o SapiensEdu transforma dados complexos em informações claras e acessíveis, permitindo que os gestores tomem decisões mais estratégicas, os professores otimizem seu tempo, os alunos acompanhem seu progresso e os pais participem ativamente da jornada educacional de seus filhos.
 
 ### ✨ Funcionalidades
 
