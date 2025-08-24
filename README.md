@@ -3,7 +3,7 @@ SapiensEdu
 <!-- Badges - escudos que mostram status do projeto. Ex: build, coverage, etc. -->
 ![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/seu-usuario/seu-projeto?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/wfreitasdev/sapiensedu?style=for-the-badge)
 
 > Breve descrição do projeto. Explique em uma ou duas frases o principal objetivo e a quem se destina.
 
