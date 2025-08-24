@@ -1,5 +1,5 @@
 # SapiensEdu
-[Read in English](#english) | [Leia em Portugués](#português)
+[Read in English](#-english) | [Leia em Portugués](#-português)
 
 ## Português
 
@@ -92,7 +92,4 @@ Para iniciar o servidor, execute:
 ```bash
 mvn spring-boot:run
 
----
-
-
-<a name="english"></a>##English
+##English
