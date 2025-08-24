@@ -7,7 +7,7 @@
 
 <!-- Badges - escudos que mostram status do projeto. Ex: build, coverage, etc. -->
 ![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java)
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-green?style=for-the-badge)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/wfreitasdev/sapiensedu?style=for-the-badge)
 
 > SapiensEdu é a plataforma de gestão escolar que conecta administradores, professores, alunos e pais em um ambiente digital único, simplificando a comunicação e o acompanhamento acadêmico.
