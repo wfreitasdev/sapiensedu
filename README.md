@@ -19,6 +19,8 @@ Uma demonstração visual (screenshot, GIF ou um pequeno vídeo) pode ser muito 
 ## 📖 Índice
 
 *   [Sobre o Projeto](#-sobre-o-projeto)
+*   [Funcionalidades](#-funcionalidades)
+*   [Tecnologias Utilizadas](#-tecnologias-utilizadas]
 *   [🚀 Começando](#-começando)
     *   [Pré-requisitos](#pré-requisitos)
     *   [Instalação](#instalação)
