@@ -1,7 +1,7 @@
 # SapiensEdu
 🇬🇧[Read in English](#english) | 🇧🇷[Leia em Português](#portugues)
 
-## Português
+## 🇧🇷 Português
 
 ### SapiensEdu
 
