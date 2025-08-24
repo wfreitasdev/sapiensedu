@@ -19,7 +19,7 @@ d
 
 
 
-## 🇧🇷 Portugues
+## 🇧🇷 Português
 
 ### SapiensEdu
 
