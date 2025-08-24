@@ -1,4 +1,5 @@
 # SapiensEdu
+[Read in English](#english) | [Leia em Portugués](#português)
 
 <!-- Badges - escudos que mostram status do projeto. Ex: build, coverage, etc. -->
 ![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java)
