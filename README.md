@@ -1,23 +1,5 @@
 # SapiensEdu
-🇬🇧[Read in English](#-english) | 🇧🇷[Leia em Português](#portugues)
-
-d
-
-
-f
-
-d
-v
-v
-v
-d
-
-
-
-
-
-
-
+🇬🇧[Read in English](#english) | 🇧🇷[Leia em Português](#portugues)
 
 ## 🇧🇷 Português
 
