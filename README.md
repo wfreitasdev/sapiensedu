@@ -89,9 +89,10 @@ Explique como usar a aplicação após a instalação. Se for uma API, mostre ex
 **Exemplo (para uma API REST):**
 
 Para iniciar o servidor, execute:
-   ```bash
-   mvn spring-boot:run
-   ```
+```bash
+mvn spring-boot:run
+```
+
 ---
 
 ##English
