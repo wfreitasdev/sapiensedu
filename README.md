@@ -1,18 +1,6 @@
 # SapiensEdu
 🇬🇧[Read in English](#-english) | 🇧🇷[Leia em Português](#portugues)
 
-d
-d
-d
-
-
-d
-d
-
-
-d
-d
-d
 <a name="portugues"></a>
 
 ### SapiensEdu
@@ -107,5 +95,5 @@ mvn spring-boot:run
 
 ---
 
-## 🇬🇧 English
+<a name="ingles"></a>
 ... (conteúdo em inglês) ...
