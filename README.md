@@ -42,8 +42,8 @@ SapiensEdu é uma plataforma de gestão educacional completa e inteligente, proj
 ### 🛠️ Tecnologias Utilizadas
 
 Liste as principais tecnologias, frameworks e ferramentas que você usou.
-*   **GraphQL
-*   **Domain Driven Design
+*   **GraphQL**
+*   **Domain Driven Design**
 *   **Linguagem:** Java 17
 *   **Build Tool:** Maven / Gradle
 *   **Frameworks:** Spring Boot (se aplicável), etc.
