@@ -62,6 +62,8 @@ SapiensEdu é uma plataforma de gestão educacional completa e inteligente, proj
     - <ins>Controle de Evasão Escolar</ins>: Ajuda a identificar alunos em risco de evasão, permitindo que a escola atue de forma preventiva.
 
 *   ✅ **Captação e aretenção de Alunos:**
+    - <ins>Gestão de Marketing</ins>: Auxilia na criação de campanhas para atrair novos alunos, monitorando a evolução das matrículas.
+    - <ins>Pesquisas de Satisfação</ins>: Permite a aplicação de pesquisas com a comunidade escolar para identificar pontos de melhoria.
 *   ✅ **Biblioteca:** Descrição de outra capacidade importante.
 *   🚧 **Funcionalidade 3 (Em desenvolvimento):** O que está por vir.
 
