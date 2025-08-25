@@ -69,8 +69,6 @@ SapiensEdu é uma plataforma de gestão educacional completa e inteligente, proj
     - <ins>Controle de Empréstimos e Devoluções</ins>: Automatiza o processo de retirada e devolução de livros, com controle de prazos e notificações de atraso.
     - <ins>Reservas Online</ins>: Alunos e professores podem consultar a disponibilidade e reservar itens do acervo pela internet.
 
-*   🚧 **Funcionalidade 3 (Em desenvolvimento):** O que está por vir.
-
 ### 🛠️ Tecnologias Utilizadas
 
 Liste as principais tecnologias, frameworks e ferramentas que você usou.
