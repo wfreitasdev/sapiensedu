@@ -46,7 +46,11 @@ SapiensEdu é uma plataforma de gestão educacional completa e inteligente, proj
 
     - <ins>Gestão de Turmas e Horários</ins>: Auxilia na organização das turmas, alocação de professores e criação da grade de horários..
 
-*   ✅ **Financeiro:** Descrição de outra capacidade importante.
+*   ✅ **Financeiro:**
+    - <ins>Controle de Mensalidades</ins>: Automatiza a emissão de boletos bancários, faturas e notas fiscais.
+    - <ins>Gestão de Inadimplência</ins>: Monitora os pagamentos em atraso e facilita a comunicação com os responsáveis para negociação.
+    - <ins>Fluxo de Caixa</ins>: Oferece uma visão clara das contas a pagar e a receber, auxiliando no planejamento financeiro da instituição.
+
 *   ✅ **Biblioteca:** Descrição de outra capacidade importante.
 *   🚧 **Funcionalidade 3 (Em desenvolvimento):** O que está por vir.
 
