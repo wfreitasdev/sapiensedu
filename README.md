@@ -38,7 +38,7 @@ SapiensEdu é uma plataforma de gestão educacional completa e inteligente, proj
 ### ✨ Funcionalidades
 
 *   ✅ **Gestão Acadêmica e Pedagógica:** 
-<u>Matrículas e Inscrições</u>: Automatiza o processo de cadastro de novos alunos, envio de documentos e geração de contratos. 
+** <u>Matrículas e Inscrições</u>: Automatiza o processo de cadastro de novos alunos, envio de documentos e geração de contratos. 
 
 Lançamento de Notas e Frequência: Professores podem registrar notas, avaliações e a presença dos alunos de forma online, facilitando o acesso a essas informações.
 
