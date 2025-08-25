@@ -51,6 +51,13 @@ SapiensEdu é uma plataforma de gestão educacional completa e inteligente, proj
     - <ins>Gestão de Inadimplência</ins>: Monitora os pagamentos em atraso e facilita a comunicação com os responsáveis para negociação.
     - <ins>Fluxo de Caixa</ins>: Oferece uma visão clara das contas a pagar e a receber, auxiliando no planejamento financeiro da instituição.
 
+*   ✅ **Comunicação e Engajamento:**
+    - <ins>Portal dos Pais e Alunos</ins>: Oferece um canal direto para que pais e alunos possam consultar notas, frequência, comunicados e situação financeira.
+    - <ins>Agenda Digital</ins>: Facilita a comunicação entre a escola e as famílias, com envio de avisos e atualizações em tempo real.
+    - <ins>Canal de Comunicação Integrado</ins>: Melhora a comunicação entre todos os membros da comunidade escolar, incluindo gestores, professores e funcionários.
+
+*   ✅ **Gestão Administrativa:**
+*   ✅ **Captação e aretenção de Alunos:**
 *   ✅ **Biblioteca:** Descrição de outra capacidade importante.
 *   🚧 **Funcionalidade 3 (Em desenvolvimento):** O que está por vir.
 
