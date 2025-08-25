@@ -64,7 +64,11 @@ SapiensEdu é uma plataforma de gestão educacional completa e inteligente, proj
 *   ✅ **Captação e aretenção de Alunos:**
     - <ins>Gestão de Marketing</ins>: Auxilia na criação de campanhas para atrair novos alunos, monitorando a evolução das matrículas.
     - <ins>Pesquisas de Satisfação</ins>: Permite a aplicação de pesquisas com a comunidade escolar para identificar pontos de melhoria.
-*   ✅ **Biblioteca:** Descrição de outra capacidade importante.
+*   ✅ **Biblioteca:**
+    - <ins>Cadastro de Acervo</ins>: Permite registrar e catalogar todos os livros, periódicos e outros materiais disponíveis.
+    - <ins>Controle de Empréstimos e Devoluções</ins>: Automatiza o processo de retirada e devolução de livros, com controle de prazos e notificações de atraso.
+    - <ins>Reservas Online</ins>: Alunos e professores podem consultar a disponibilidade e reservar itens do acervo pela internet.
+
 *   🚧 **Funcionalidade 3 (Em desenvolvimento):** O que está por vir.
 
 ### 🛠️ Tecnologias Utilizadas
